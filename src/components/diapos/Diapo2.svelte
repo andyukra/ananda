@@ -57,12 +57,6 @@
     /* animation */
     @keyframes scroll {
         from { transform: translateX(0); }
-        to { transform: translateX(calc(-25% * 8)); }
-    }
-    /* queries */
-    @media(max-width: 768px) {
-        section {
-            animation: scroll 10s linear infinite;
-        }
+        to { transform: translateX(calc(-300px * 8)); }
     }
 </style>

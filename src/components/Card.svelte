@@ -36,7 +36,4 @@
     h1 {
         font-family: "Quicksand", sans-serif;
     }
-    p {
-        font-family: "Quicksand", sans-serif;
-    }
 </style>
