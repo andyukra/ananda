@@ -5,23 +5,23 @@
 <div class="scr">
     <h1 class="text-center lg:text-3xl text-2xl font-bold w-fit mx-auto mb-2">primavera-verano 2024</h1>
 <section class="flex p-3 gap-5">
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365974/yoga1_eaqzxs.jpg" title="Conjunto 1" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365972/yoga3_xmadyq.jpg" title="Conjunto 2" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga5_acfgih.jpg" title="Conjunto 3" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga4_szvimy.jpg" title="Conjunto 4" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga6_leo23a.jpg" title="Conjunto 5" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni  perspiciatis ut magnam"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga2_fo0t7r.jpg" title="Conjunto 6" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni  perspiciatis ut magnam cupiditate repellat"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga7_lysdlp.jpg" title="Conjunto 7" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga8_hqgczc.jpg" title="Conjunto 8" desc="Lorem ipsum dolor sit amet consectetur"/>
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365974/yoga1_eaqzxs.jpg" title="Conjunto 1" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365972/yoga3_xmadyq.jpg" title="Conjunto 2" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga5_acfgih.jpg" title="Conjunto 3" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga4_szvimy.jpg" title="Conjunto 4" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga6_leo23a.jpg" title="Conjunto 5" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga2_fo0t7r.jpg" title="Conjunto 6" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga7_lysdlp.jpg" title="Conjunto 7" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga8_hqgczc.jpg" title="Conjunto 8" />
     <!-- DUPLICATE -->
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365974/yoga1_eaqzxs.jpg" title="Conjunto 1" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365972/yoga3_xmadyq.jpg" title="Conjunto 2" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga5_acfgih.jpg" title="Conjunto 3" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga4_szvimy.jpg" title="Conjunto 4" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga6_leo23a.jpg" title="Conjunto 5" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni  perspiciatis ut magnam"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga2_fo0t7r.jpg" title="Conjunto 6" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni  perspiciatis ut magnam cupiditate repellat"/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga7_lysdlp.jpg" title="Conjunto 7" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa explicabo magni "/>
-    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga8_hqgczc.jpg" title="Conjunto 8" desc="Lorem ipsum dolor sit amet consectetur"/>
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365974/yoga1_eaqzxs.jpg" title="Conjunto 1" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365972/yoga3_xmadyq.jpg" title="Conjunto 2" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga5_acfgih.jpg" title="Conjunto 3" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365971/yoga4_szvimy.jpg" title="Conjunto 4" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga6_leo23a.jpg" title="Conjunto 5" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga2_fo0t7r.jpg" title="Conjunto 6" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga7_lysdlp.jpg" title="Conjunto 7" />
+    <Card src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/yoga8_hqgczc.jpg" title="Conjunto 8" />
 </section>
 </div>
 
