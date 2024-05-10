@@ -1,5 +1,5 @@
 <section>
-    <img src="/bgLogo.png" alt="ananda logo">
+    <img src="https://res.cloudinary.com/andy-company/image/upload/v1715365970/bgLogo_bdxehu.png" alt="ananda logo">
 </section>
 
 <style>

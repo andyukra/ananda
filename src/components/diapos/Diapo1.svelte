@@ -4,7 +4,7 @@
 
 <section class="relative h-dvh">
     <video class="w-full h-full object-cover z-10" loop data-autoplay muted>
-        <source data-src="/diapo1bg.mp4" type="video/mp4">
+        <source data-src="https://res.cloudinary.com/andy-company/video/upload/v1715365979/diapo1bg_du56ig.mp4" type="video/mp4">
     </video>
     <main class="w-full h-full absolute top-0 left-0 z-20 bg-[#0009] flex flex-col justify-center items-center">
         <div class="flex flex-col justify-center items-center">
