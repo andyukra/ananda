@@ -51,9 +51,9 @@
         transform: translateX(0);
     }
     
-    section:hover {
+    /* section:hover {
         animation-play-state: paused;
-    }
+    } */
     /* animation */
     @keyframes scroll {
         from { transform: translateX(0); }
