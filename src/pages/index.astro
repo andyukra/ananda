@@ -1,15 +1,22 @@
 ---
 import MainLayout from '../layouts/mainLayout.astro';
 import Diapo1 from '../components/diapos/Diapo1.svelte'
-import Diapo2 from '../components/diapos/Diapo2.svelte'
+import Buzos from '../components/diapos/Buzos.svelte'
+import CalzComp from '../components/diapos/CalzComp.svelte'
+
+// NECESARIOS
 import Diapo3 from '../components/diapos/Diapo3.svelte'
 import Diapo4 from '../components/diapos/Diapo4.svelte'
 ---
 
 <MainLayout>
 	<div id="fullpage">
-		<div class="section active"><Diapo1 /></div>
-		<div class="section"><Diapo2 /></div>
+		<div class="section"><Diapo1 /></div>
+		<div class="section"><Buzos client:visible/></div>
+		<div class="section active"><CalzComp client:visible/></div>
+
+
+		<!-- NECESARIAS -->
 		<div class="section"><Diapo3 /></div>
 		<div class="section"><Diapo4 /></div>
 	</div>
