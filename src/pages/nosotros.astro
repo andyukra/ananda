@@ -1,0 +1,20 @@
+---
+import MainLayout from '../layouts/mainLayout.astro';
+import Navbar from '../components/Navbar.svelte';
+---
+
+<MainLayout>
+    <Navbar />
+    <main class="flex flex-col justify-center items-center px-4 gap-5">
+        <h1 class="text-4xl text-center text-slate-600 ">Sobre nosotros</h1>
+        <p class="text-center text-xl text-slate-400 italic">Bienvenidos a Ananda, tu ropa deportiva que combina calidad, funcionalidad y estilo. En Ananda diseñamos cada prenda para brindar libertad, confort y bienestar a la hora de realizar actividad física. Te ofrecemos prendas que puedan adaptarse a todas tus necesidades</p>
+        <a href="/tienda" class="text-blue-600 underline">Volver</a>
+    </main>
+</MainLayout>
+
+<style>
+    main {
+        height: calc(100dvh - 60px);
+        font-weight: bold;
+    }
+</style>

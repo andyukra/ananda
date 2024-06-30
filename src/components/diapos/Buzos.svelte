@@ -11,7 +11,7 @@
 
     async function change() {
         for(const x in products.buzos) {
-            await sleep(3000);
+            await sleep(1800);
             image = products.buzos[x];
         }
         change();

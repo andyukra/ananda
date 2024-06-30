@@ -9,7 +9,7 @@
 </script>
 
 <section
-    style={`${isMobile ? 'background-image:url("https://res.cloudinary.com/andy-company/image/upload/v1719603599/conjMobil_gcnrel.jpg");' : 'background-image:url("https://res.cloudinary.com/andy-company/image/upload/v1719603599/conj_rqfwtw.jpg");'}`}
+    style={`${isMobile ? 'background-image:url("https://res.cloudinary.com/andy-company/image/upload/v1719770330/bgM_t5ixjm.jpg");' : 'background-image:url("https://res.cloudinary.com/andy-company/image/upload/v1719770330/bgF_isjzcu.jpg");'}`}
     class="w-full h-dvh"></section>
 
 <style>

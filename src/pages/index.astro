@@ -1,19 +1,23 @@
 ---
 import MainLayout from '../layouts/mainLayout.astro';
-import Diapo1 from '../components/diapos/Diapo1.svelte'
-import Buzos from '../components/diapos/Buzos.svelte'
-import CalzComp from '../components/diapos/CalzComp.svelte'
+import Buzos from '../components/diapos/Buzos.svelte';
+import Conjunto from '../components/diapos/Conjunto.svelte';
+import Calzas from '../components/diapos/Calzas.svelte';
+import Medias from '../components/diapos/Medias.svelte';
 
 // NECESARIOS
-import Diapo3 from '../components/diapos/Diapo3.svelte'
-import Diapo4 from '../components/diapos/Diapo4.svelte'
+import Diapo1 from '../components/diapos/Diapo1.svelte';
+import Diapo3 from '../components/diapos/Diapo3.svelte';
+import Diapo4 from '../components/diapos/Diapo4.svelte';
 ---
 
 <MainLayout>
 	<div id="fullpage">
-		<div class="section"><Diapo1 /></div>
+		<div class="section active"><Diapo1 /></div>
 		<div class="section"><Buzos client:visible/></div>
-		<div class="section active"><CalzComp client:visible/></div>
+		<div class="section"><Conjunto client:visible/></div>
+		<div class="section"><Calzas client:visible/></div>
+		<div class="section"><Medias client:visible/></div>
 
 
 		<!-- NECESARIAS -->
