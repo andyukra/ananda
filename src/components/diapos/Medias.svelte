@@ -11,20 +11,20 @@
         <Card src={Products.medias[2]} title="Medias bordo" opts={false}/>
         <Card src={Products.vincha[0]} title="vincha tyedye" opts={false}/>
         <Card src={Products.campCierre[0]} title="camperita tyedye" opts={false}/>
-        <Card src={Products.leggTerm[0]} title="termicos tyedye verde" opts={false}/>
-        <Card src={Products.leggTerm[1]} title="termicos tyedye bordo" opts={false}/>
-        <Card src={Products.pantAncho[0]} title="Pantalón ancho negro" opts={false}/>
-        <Card src={Products.pantAncho[1]} title="Pantalón ancho tyedye" opts={false}/>
+        <Card src={Products.leggTerm[0]} title="termicos tyedye negro" opts={false}/>
+        <Card src={Products.leggTerm[1]} title="termicos tyedye verde" opts={false}/>
+        <Card src={Products.pantAncho[0]} title="Pantalón ancho tyedye bordo" opts={false}/>
+        <Card src={Products.pantAncho[1]} title="Pantalón ancho tyedye verde" opts={false}/>
         <!-- COPIA -->
         <Card src={Products.medias[0]} title="Medias gris" opts={false}/>
         <Card src={Products.medias[1]} title="Medias negras" opts={false}/>
         <Card src={Products.medias[2]} title="Medias bordo" opts={false}/>
         <Card src={Products.vincha[0]} title="vincha tyedye" opts={false}/>
         <Card src={Products.campCierre[0]} title="camperita tyedye" opts={false}/>
-        <Card src={Products.leggTerm[0]} title="termicos tyedye verde" opts={false}/>
-        <Card src={Products.leggTerm[1]} title="termicos tyedye bordo" opts={false}/>
-        <Card src={Products.pantAncho[0]} title="Pantalón ancho negro" opts={false}/>
-        <Card src={Products.pantAncho[1]} title="Pantalón ancho tyedye" opts={false}/>
+        <Card src={Products.leggTerm[0]} title="termicos tyedye negro" opts={false}/>
+        <Card src={Products.leggTerm[1]} title="termicos tyedye verde" opts={false}/>
+        <Card src={Products.pantAncho[0]} title="Pantalón ancho tyedye bordo" opts={false}/>
+        <Card src={Products.pantAncho[1]} title="Pantalón ancho tyedye verde" opts={false}/>
     </div>
 </section>
 
