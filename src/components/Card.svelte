@@ -35,6 +35,7 @@
     }
     img {
         max-height: max-content;
+        height: 90%;
     }
     h1 {
         font-family: "Quicksand", sans-serif;
