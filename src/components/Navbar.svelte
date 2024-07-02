@@ -4,7 +4,7 @@
 </script>
 
 <nav class="px-8 py-4 bg-slate-800 text-white flex justify-between items-center">
-    <a class="text-xl" href="/">Ananda</a>
+    <a class="text-xl" href="/" data-astro-reload>Ananda</a>
     <ul class="flex items-center justify-center gap-7">
         <li class="size-5 cursor-pointer hover:animate-pulse">
             <a href="/store">

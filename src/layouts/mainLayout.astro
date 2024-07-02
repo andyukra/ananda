@@ -1,7 +1,11 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" transition:animate="slide">
 <head>
+    <ViewTransitions />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/4.0.22/fullpage.css" integrity="sha512-AIwt5sjXSKDo4t0KSQ/eAuy43kQMc1hYtIKLxaFrHd26nQFzMo1FJdBIickVyGXnhm2xB2OOYBqMBgu3dBU4KA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
